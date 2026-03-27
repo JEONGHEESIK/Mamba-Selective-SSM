@@ -178,7 +178,7 @@ The code automatically uses GPU if available (falls back to CPU otherwise).
 Running `test_mamba.py` generates a visualization showing how Mamba selectively adapts to important vs. unimportant information:
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/42b15f59-6150-4bd5-b0f1-5682c7416ce2" width="512" height="768"></img><br/>
+<img src="https://github.com/user-attachments/assets/f69dc983-142b-4ef6-8b57-a1be5a733770" width="512" height="768"></img><br/>
 </div> 
 
 The plot demonstrates:
